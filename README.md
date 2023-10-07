@@ -24,4 +24,5 @@ Tested minecraft versions: 1.6.4, 1.7.10, 1.8.8</br>
 Zig version: 0.12.0-dev.706+62a0fbdae
 
 - - - 
-P.S. WORKS ONLY IN x64 MODE.
+P.S. WORKS ONLY IN x64 MODE.<br/>
+Enspired by: https://github.com/Aurenex/Simple-ESP
